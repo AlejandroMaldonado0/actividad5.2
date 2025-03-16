@@ -1,4 +1,5 @@
 Una computadora, computador u ordenador​​​ es una máquina programable que ejecuta una serie de comandos para procesar los datos de entrada, obteniendo convenientemente información que posteriormente se envía a las unidades de salida
+<<<<<<< HEAD
 
 Partes del Computador
 Hardware:
@@ -26,3 +27,6 @@ Software:
 Sistema Operativo (Windows, macOS, Linux)
 Software de Aplicación (Navegadores, Procesadores de texto, Juegos)
 Software de Utilidades (Antivirus, Optimizadores)
+=======
+la cual nos a facilitado el manejo de la informacion ya que lo hace de maenra digital permitiendo que todos tengamos  acceso a esta misma, y permitiendo que realizar tareas proyectos y demas actividade sea màsG facil
+>>>>>>> 98ac4334df8f8b5efd9129052438df7894e5b96e

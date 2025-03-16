@@ -5,9 +5,13 @@ Existen diferentes tipos de libros, como:
 Libros físicos: Impresos en papel y encuadernados.
 Libros digitales (e-books): Versiones electrónicas accesibles en dispositivos como tablets, computadoras o lectores electrónicos.
 Libros de audio (audiolibros): Grabaciones narradas de textos, ideales para escuchar en lugar de leer.
+<<<<<<< HEAD
+El libro ha sido para la humanidad sumamente importante, pues es el instrumento por excelencia para preservar y trasmitir conocimientos, creencias y cultura, tanto a través del tiempo como del espacio, ayudando a la humanidada a crecer y avanzar
+=======
 
 Tipos de Libros: 
 Narrativos
 Libros de Poesia
 Libros de Consultas
 Libros bibliograficos 
+>>>>>>> e89c97e3fea60b72a0d152830d399ea51b4a3b29
