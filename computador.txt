@@ -1,1 +1,28 @@
 Una computadora, computador u ordenador​​​ es una máquina programable que ejecuta una serie de comandos para procesar los datos de entrada, obteniendo convenientemente información que posteriormente se envía a las unidades de salida
+
+Partes del Computador
+Hardware:
+Procesador (CPU)
+Memoria RAM
+Memoria ROM
+Disco Duro (HDD)
+Unidad de Estado Sólido (SSD)
+Placa Base (Motherboard)
+Fuente de Alimentación
+Tarjeta Gráfica (GPU)
+Tarjeta de Sonido
+Tarjeta de Red
+Periféricos de Entrada:
+Teclado
+Mouse
+Escáner
+Cámara Web
+Micrófono
+Periféricos de Salida:
+Monitor
+Impresora
+Altavoces
+Software:
+Sistema Operativo (Windows, macOS, Linux)
+Software de Aplicación (Navegadores, Procesadores de texto, Juegos)
+Software de Utilidades (Antivirus, Optimizadores)
