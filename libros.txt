@@ -1,0 +1,7 @@
+Un libro es una obra compuesta por un conjunto de hojas impresas o digitales, organizadas de manera lógica y encuadernadas o almacenadas en un formato electrónico. Su contenido puede abarcar diversos géneros y temáticas, como literatura, historia, ciencia, educación, entre otros.
+
+Existen diferentes tipos de libros, como:
+
+Libros físicos: Impresos en papel y encuadernados.
+Libros digitales (e-books): Versiones electrónicas accesibles en dispositivos como tablets, computadoras o lectores electrónicos.
+Libros de audio (audiolibros): Grabaciones narradas de textos, ideales para escuchar en lugar de leer.
